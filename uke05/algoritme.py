@@ -2,8 +2,8 @@
 # B = Helse- og idrettsfag
 # C = Humanoria og pedagogikk
 # D = Teknologi og realfag
-# E = Kunstfag
-# F = Lærerutdanning
+# E = Lærerutdanning
+# F = Kunstfag
 
 CODE = {'A': '0',     'B': '100',   'C': '101', 
         'D': '110',    'E': '1110',      'F': '1111' 
