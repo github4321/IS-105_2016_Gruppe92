@@ -1,64 +1,3 @@
-
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-Maria
-Search
-
-
-
-Gmail
-COMPOSE
-Labels
-Inbox (1)
-Starred
-Important
-Sent Mail
-Drafts
-Circles
-3T (17)
-A. UiA
-Butikk (7)
-Degus
-GallupPanelet (51)
-Jobb
-OneCall (23)
-Personal
-School (7)
-Travel
-More labels 
-Hangouts
-
- 
- 
- 
-  More 
-  
- 
-Print all In new window
-poker
-Inbox
-x 
-
-Maria
-Attachments19:12 (1 hour ago)
-
-to me 
-poker.py
-Attachments area
-Preview attachment poker.py
-
-Text
-poker.py
-	
-Click here to Reply or Forward
-0.6 GB (4%) of 15 GB used
-Manage
-Terms - Privacy
-Last account activity: 2 minutes ago
-Open in 1 other location  Details
-
 # -*- coding: utf-8 -*-
 
 import random 
@@ -295,5 +234,3 @@ def test_shufflers(shufflers=[shuffle, shuffle1], decks=['abc','ab']):
             test_shuffler(f, deck)
 """
 def factorial(n): return 1 if (n <= 1) else n*factorial(n-1)
-poker.pyOpen
-Displaying poker.py.
