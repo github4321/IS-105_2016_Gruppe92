@@ -5,7 +5,11 @@ hpcharacters = ['Harry Potter', 'Hermione Granger', 'Ron Weasley', 'Arthur Weasl
                 'Rubeus Hagrid', 'Fang', 'Fluffy', 'Aragog', 'Buckbeak', 'Walden Macnair',
                 'Severus Snape', 'Lily Potter', 'James Potter', 'Albus Severus Potter',
                 'Luna Lovegood', 'Xenophilius Lovegood', 'Neville Longbottom',
-                'Augusta Longbottom', 'Fleur Delacour', 'Gabrielle Delacour']
+                'Augusta Longbottom', 'Fleur Delacour', 'Gabrielle Delacour', 'Fawkes',
+                'Hedwig', 'Errol', 'Pigwidgeon', 'Frank Bryce', 'Remus Lupin', 'Nymphadora Tonks',
+                'Ted Tonks', 'Draco Malfoy', 'Lucius Malfoy', 'Narcissa Malfoy', 'Gregory Goyle',
+                'Vincent Crabbe', 'Sirius Black', 'Phineus Nigellus Black', 'Regulus Arcturus Black',
+                'Mrs Black', 'Bellatrix Lestrange']
 
 def search_fast(hpcharacters, 'Gregory Goyle'):
     for item in hpcharacters:
