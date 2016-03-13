@@ -64,4 +64,4 @@ def unload():
         rightSide.append(frakt)
     move()
         
-start(
+start()
