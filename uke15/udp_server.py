@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import struct
 import socket
 
@@ -15,15 +17,15 @@ while True:
         print("Kunne ikke pakke ut data fra klient.")
 
     else:
-        # Gjør handlinger i elvekryssningsspillet basert på input fra klient
+        # GjÃ¸r handlinger i elvekryssningsspillet basert pÃ¥ input fra klient
         success = 0
-        if input == "høne":
+        if input == "hÃ¸ne":
             success = 1
         elif input == "rev":
             success = 1
         elif input == "korn":
             success = 1
-        elif input == "båt":
+        elif input == "bÃ¥t":
             success = 1        
 
         # Pakk og send resultatet til klient
