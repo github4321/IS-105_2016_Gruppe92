@@ -1,5 +1,5 @@
 def test():
-    L = [i for i in range(500)]
+    L = [i for i in range(10)]
 
 if __name__=='__main__':
     from timeit import Timer
