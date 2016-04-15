@@ -1,10 +1,12 @@
+# -*- coding: utf-8 -*-
+
 import struct
 import socket
 
 udp_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 while True:
-    # Få input fra bruker for objekt (høne, korn, rev eller båt) og 
+    # FÃ¥ input fra bruker for objekt (hÃ¸ne, korn, rev eller bÃ¥t) og 
     # handling (flytt inn, flytt ut, flytt over)
     raw_input(">")
     
